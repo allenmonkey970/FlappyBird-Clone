@@ -1,7 +1,7 @@
 # Fappy Bird Game
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.6+-green.svg)
-![Last Updated](https://img.shields.io/badge/last%20updated-2025--05--01-brightgreen)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Last Updated](https://img.shields.io/badge/last%20updated-2025--05--02-brightgreen)
 
 Welcome to the Fappy Bird game! This project is my own clone of the popular Flappy Bird game, built using C++ and the SFML library. This is my first real project using the SFML library.
 
